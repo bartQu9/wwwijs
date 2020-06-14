@@ -1,0 +1,4 @@
+/*nie pobierac*/
+img {
+    pointer-events: none;
+}

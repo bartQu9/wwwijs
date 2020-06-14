@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="253edcc9-3ef0-4b61-834a-ec2623da9cef" name="rudnicki.szczecin.pl" url="http://rudnicki.szczecin.pl">
+        <fileTransfer accessType="SFTP" host="rudnicki.szczecin.pl" port="55887" sshConfigId="e1934146-7898-4d84-95c0-282665dc21f1" sshConfig="bartek@rudnicki.szczecin.pl:55887 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
